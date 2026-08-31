@@ -1,3 +1,9 @@
+/**
+ * @packageDocumentation
+ * LeadGen App form embed integration for Next.js — a deferred-loading
+ * `LeadGenForm` component built on `@silverassist/next-script-loader`.
+ */
+
 "use client";
 
 import { ScriptLoader } from "@silverassist/next-script-loader";
