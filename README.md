@@ -76,4 +76,8 @@ standalone.
 
 ## License
 
-PolyForm Noncommercial 1.0.0 — see [LICENSE](./LICENSE).
+[PolyForm Noncommercial 1.0.0](./LICENSE)
+
+---
+
+Made with ❤️ by Silver Assist
